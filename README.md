@@ -29,7 +29,8 @@ For the sake of elucidation, I will change the text type from "password" to "tex
 <img width="1061" height="542" alt="image" src="https://github.com/user-attachments/assets/8a6418c9-93cd-476f-926f-1003feeb5589" />
 
 The sensitive information disclosure vulnerability is also present in the "<b>WWW and Security</b>" menu at "http://\<deviceIP\>/setupA.cfg":<br>
-<img width="1594" height="869" alt="image" src="https://github.com/user-attachments/assets/25671094-9707-4e60-b5bc-6c1c8105e75a" />
+<img width="966" height="746" alt="image" src="https://github.com/user-attachments/assets/58c378e7-fcb3-4c53-8752-35ce287b06ad" />
+
 
 This time the password isn't shown in the source code, however we can still change the text type from "password" to "text" in order to show the hidden admin password:<br>
 <img width="844" height="664" alt="image" src="https://github.com/user-attachments/assets/dd2517ce-7bd6-4f05-b904-a7ae7073a541" />
