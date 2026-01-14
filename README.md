@@ -1,7 +1,7 @@
 # COMET Web Sensor - Sensitive Information Disclosure
 <b>Fernando Parizzi</b>
 
-Waiting for CVE<br>
+CVE-2025-69605<br>
 <br>
 <b>Confirmed Vulnerable Products and Versions:</b><br>
 COMET Web Sensor Firmware Version: 1-5-5-1.0990 / 1.00<br>
